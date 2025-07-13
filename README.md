@@ -1,3 +1,3 @@
-# Super-Skidded
+# Super-NoSkidded
 Very Skidded N17Pro3426
-@Nazar17P3426 is a SKIDTOR
+@N17Pro3426 is a NoSkidded
